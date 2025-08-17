@@ -3,7 +3,7 @@ Something simple
 https Makes all the difference
 
 ## 🌐 Live Demo
-[View Website](https://cmaisonet.github.io/)
+[View Website](https://Maison.github.io/)
 
 ## 🛠️ Tech Stack
 - HTML5
@@ -28,4 +28,3 @@ https Makes all the difference
 - Continue developing interactive apps to showcase dynamic functionality
 
 ## 📬 Contact
-You can reach me on [LinkedIn](http://linkedin.com/in/maisonet-c) or view more of my work [on GitHub](https://github.com/CMaisonet).
